@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <style>
+        #one{
+            margin-top: 50px;
+            margin-bottom: 50px;
+            margin-left: 50px;
+            margin-right: 25px;
+            background-color: black;
+            height: 100px;
+            width: 100px;
+            display: inline-block;
+        }
+        #two{
+            display: inline-block;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            margin-left: 25px;
+            margin-right: 50px;
+            background-color: black;
+            height: 100px;
+            width: 100px;
+        }
+        
+    </style>
+  </head>
+
+  <body>
+    <div class="square" id="one"></div>
+    <div class="square" id="two"></div>
+  </body>
+
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <style>
+        #black {
+            margin: top auto;
+            margin: bottom 100px;
+            margin: left 0;
+            background-color: black;
+            height: 100px;
+            width: 500px;
+        }
+        #red{
+            margin: top 100px;
+            margin: bottom 200px;
+            margin: left 0;
+            background-color: red;
+            height: 100px;
+            width: 500px;
+        }
+        #gold{
+            margin: 200;
+            margin: left 0;
+            background-color: #ffd700;
+            height: 100px;
+            width: 500px;
+        }
+    </style>
+  </head>
+
+  <body>
+    <div class="square" id="black"></div>
+    <div class="square" id="red"></div>
+    <div class="square" id="gold"></div>
+  </body>
+
+</html>

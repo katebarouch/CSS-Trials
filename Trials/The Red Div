@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <style>
+
+        div {
+            margin-top: auto;
+            margin-left: 0;
+            background-color: #ff0000;
+            height: 240px;
+            width: 350px;
+        }
+    </style>
+  </head>
+
+  <body>
+    <div class="square"></div>
+  </body>
+
+</html>
